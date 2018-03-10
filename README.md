@@ -17,4 +17,7 @@ my personal website
 
 
 
- css-framework - semantic ui js-framework - vue
+ css-framework - semantic ui
+
+
+ js-framework - vue

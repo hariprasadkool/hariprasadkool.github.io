@@ -3,18 +3,7 @@ my personal website
 
 
 
-      
-
-
-
-
-
-
-
-
-
-
-
+   
 
 
  css-framework - semantic ui

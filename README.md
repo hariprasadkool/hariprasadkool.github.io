@@ -1,2 +1,2 @@
 # hariprasadkool.github.io
-my personal website
+my website

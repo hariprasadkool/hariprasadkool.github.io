@@ -1,1 +1,1 @@
-# hpkool is
+# hpkool is awsome
